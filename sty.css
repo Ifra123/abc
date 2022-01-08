@@ -211,3 +211,7 @@ table{
     font-weight: normal;
 }
 
+.Projects .Row .det h3 span{
+    color: #eee;
+    padding: 0. 5rem;
+}
